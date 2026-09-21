@@ -1,0 +1,6 @@
+name: "horror-planet"
+displayName: "Project Erebus: Anomalies"
+author: "Maxim"
+description: "Мрачная планета с непредсказуемыми аномалиями и чертовщиной."
+version: "1.0"
+minGameVersion: "136"
