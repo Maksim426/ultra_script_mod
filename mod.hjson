@@ -1,6 +1,8 @@
-name: "ultimate-admin-suite"
-displayName: "Ultimate Admin Suite (30 Functions)"
-author: "Maxim"
-description: "Пакет из 30 админ-инструментов с тумблерами и умным распределением ресурсов."
-version: "3.0"
-minGameVersion: "136"
+{
+  name: "ultrascript-mod"
+  displayName: "Ultra Script Mod"
+  author: "Maxim"
+  description: "Набор консольных команд для управления игрой."
+  version: "21.0"
+  minGameVersion: 146
+}
